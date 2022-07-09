@@ -1,4 +1,3 @@
-<h1 align="center"> **Reinforced Sentiment Analysis Using Single Convolutions**
-</h1>
+<h1 align="center"> <strong> Reinforced Sentiment Analysis Using Single Convolutions </strong> </h1>
 
 
