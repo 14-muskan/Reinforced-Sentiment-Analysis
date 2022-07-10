@@ -18,4 +18,12 @@ The idea is to perform a comparative analysis for these models and evaluate each
 5. Time taken for training
 
 
+The input text goes through preprocessing methods - Lemmatization, Stop Word Removal , Tokenization and Padding. The project uses Glove twitter 25 embeddings from gensim api to understand the semantics of the input sequence.
 
+
+<h3 align="center"> <strong> CNN model based on Binary Cross Entropy Loss </strong> </h3>
+
+This model follows a simple single convolutional layers architecture and uses Glove twitter 25 embeddings from gensim api to understand the semantics of the input sequence.
+
+The model architecture is shown below:
+![alt text](file:///C:/Users/van93/OneDrive/Documents/My%20Github/Sentiment_analysis/imgs/cnn_model.png)
