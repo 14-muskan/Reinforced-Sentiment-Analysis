@@ -27,5 +27,5 @@ This model follows a simple single convolutional layers architecture and uses Gl
 
 The model architecture is shown below:
 
-![alt text]imgs/cf_lstm.png
+![imgs/cf_lstm.png](https://github.com/14-muskan/Reinforced-Sentiment-Analysis/blob/main/imgs/cf_lstm.png?raw=true)
 
