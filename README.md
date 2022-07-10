@@ -26,4 +26,5 @@ The input text goes through preprocessing methods - Lemmatization, Stop Word Rem
 This model follows a simple single convolutional layers architecture and uses Glove twitter 25 embeddings from gensim api to understand the semantics of the input sequence.
 
 The model architecture is shown below:
-![alt text](file:///C:/Users/van93/OneDrive/Documents/My%20Github/Sentiment_analysis/imgs/cnn_model.png)
+![alt text]https://github.com/14-muskan/Reinforced-Sentiment-Analysis/blob/main/imgs/cf_lstm.png?raw=true'
+
