@@ -15,9 +15,6 @@ The idea is to perform a comparative analysis for these models and evaluate each
 2. F2 score
 3. Macro weighted average
 4. Accuracies on train, test and validation data
-5. Time taken for training
 
-
-The input text goes through preprocessing methods - Lemmatization, Stop Word Removal , Tokenization and Padding. The project uses Glove twitter 25 embeddings from gensim api to understand the semantics of the input sequence.
 
 
