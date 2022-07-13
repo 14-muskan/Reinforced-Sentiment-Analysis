@@ -2,7 +2,7 @@
 
 >*The domain of **sentiment analysis** has attracted a lot of recent advancements in improving the existing state-of-the-art methodologies due to the promising impact it has on any corporation's decision making. Existing methods are utilised and a way beyond accurate, however the urge for developing more ideas and practices still remains.*
 
-This project aims to deep dive into the existing technologies and try to bring to table a model that uses **Cost Sensitive Learning** and **Single Convolutions** to address this task.
+This project aims to deep dive into the existing technologies and try to bring to table a model that uses **Single Convolutions** to address this task.
 
 The models used for the comparative study are:
 1. **Multinomial Naive Bayes model** - a probablistic model that works on the likelihood of a input tag
