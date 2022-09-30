@@ -13,6 +13,7 @@ The idea is to perform a comparative analysis for these models and evaluate each
 1. F1 score
 2. F2 score
 3. Accuracies on train, test and validation data
+4. ROC-AUC score
 
 
 
